@@ -1,5 +1,5 @@
-const memeTokenAddress = "0x2e60eBA9051835a298197767696C331F84c5Bd86";
-const quizContractAddress = "0x38F0047C0caeDA48e9050a21c3A0DeAf958BaC58";
+const memeTokenAddress = "0x07466626954Ec7383F8A61d536756773ef0e4bA3";
+const quizContractAddress = "0x2e60eBA9051835a298197767696C331F84c5Bd86";
 
 let web3;
 let account;
@@ -361,6 +361,19 @@ const ERC20_ABI = [
 			}
 		],
 		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "amount",
+				"type": "uint256"
+			}
+		],
+		"name": "mintTokens",
+		"outputs": [],
+		"stateMutability": "nonpayable",
 		"type": "function"
 	},
 	{
