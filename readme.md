@@ -10,11 +10,11 @@ NeoXSpaceQuest is a decentralized space-themed quiz game that integrates blockch
 - Fully decentralized with no reliance on intermediaries.
 
 ## Contract Details
-- *Game Contract Address*: [0x38F0047C0caeDA48e9050a21c3A0DeAf958BaC58](https://xt4scan.ngd.network/address/0x38F0047C0caeDA48e9050a21c3A0DeAf958BaC58)
-- *Network*: Neo X Testnet T4
+- *Game Contract Address*: [0x2e60eBA9051835a298197767696C331F84c5Bd86](https://xexplorer.neo.org/address/0x2e60eBA9051835a298197767696C331F84c5Bd86)
+- *Network*: Neo X Mainnet
 
 ### Token Details
-- *TheMysticToken (TMT) Contract Address*: [0x2e60eBA9051835a298197767696C331F84c5Bd86](https://xt4scan.ngd.network/address/0x2e60eBA9051835a298197767696C331F84c5Bd86)
+- *TheMysticToken (TMT) Contract Address*: [0x07466626954Ec7383F8A61d536756773ef0e4bA3](https://xexplorer.neo.org/address/0x07466626954Ec7383F8A61d536756773ef0e4bA3)
 - *Neo Currency*: GAS
 ## Deployment
 - *Network*: Neo X Testnet T4
